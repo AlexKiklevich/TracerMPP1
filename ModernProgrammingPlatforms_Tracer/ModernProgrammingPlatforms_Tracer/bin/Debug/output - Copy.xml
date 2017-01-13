@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <thread id="8" time="27ms">
+    <method name="Main" time="12ms" package="Program" paramsCount="1">
+      <method name="meth5" time="4ms" package="Program" paramsCount="0">
+        <method name="meth6" time="3ms" package="Program" paramsCount="0" />
+      </method>
+      <method name="meth1" time="5ms" package="Program" paramsCount="1">
+        <method name="meth2" time="0ms" package="Program" paramsCount="1">
+          <method name="meth3" time="0ms" package="Program" paramsCount="0" />
+        </method>
+        <method name="meth4" time="3ms" package="Program" paramsCount="3" />
+      </method>
+    </method>
+  </thread>
+  <thread id="9" time="34ms">
+    <method name="meth8" time="9ms" package="Program" paramsCount="0">
+      <method name="meth7" time="9ms" package="Program" paramsCount="0">
+        <method name="meth2" time="8ms" package="Program" paramsCount="1">
+          <method name="meth3" time="8ms" package="Program" paramsCount="1" />
+        </method>
+      </method>
+    </method>
+  </thread>
+</root>

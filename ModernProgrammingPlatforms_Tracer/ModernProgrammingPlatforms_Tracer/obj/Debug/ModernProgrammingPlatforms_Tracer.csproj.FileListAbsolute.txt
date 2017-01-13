@@ -1,0 +1,6 @@
+c:\users\sasha\documents\visual studio 2015\Projects\ModernProgrammingPlatforms_Tracer\ModernProgrammingPlatforms_Tracer\bin\Debug\ModernProgrammingPlatforms_Tracer.exe.config
+C:\Users\Sasha\documents\visual studio 2015\Projects\ModernProgrammingPlatforms_Tracer\ModernProgrammingPlatforms_Tracer\obj\Debug\ModernProgrammingPlatforms_Tracer.csprojResolveAssemblyReference.cache
+C:\Users\Sasha\documents\visual studio 2015\Projects\ModernProgrammingPlatforms_Tracer\ModernProgrammingPlatforms_Tracer\bin\Debug\ModernProgrammingPlatforms_Tracer.exe
+C:\Users\Sasha\documents\visual studio 2015\Projects\ModernProgrammingPlatforms_Tracer\ModernProgrammingPlatforms_Tracer\bin\Debug\ModernProgrammingPlatforms_Tracer.pdb
+C:\Users\Sasha\documents\visual studio 2015\Projects\ModernProgrammingPlatforms_Tracer\ModernProgrammingPlatforms_Tracer\obj\Debug\ModernProgrammingPlatforms_Tracer.exe
+C:\Users\Sasha\documents\visual studio 2015\Projects\ModernProgrammingPlatforms_Tracer\ModernProgrammingPlatforms_Tracer\obj\Debug\ModernProgrammingPlatforms_Tracer.pdb

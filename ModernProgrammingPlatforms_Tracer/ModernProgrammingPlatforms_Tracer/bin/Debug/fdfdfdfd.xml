@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <thread time="11304" id="9">
+    <method time="11304" package="TestTracerApplication.exe" paramscount="1" name="Main">
+      <method time="10101" package="TestTracerApplication.exe" paramscount="0" name="SomeFunc">
+        <method time="10000" package="TestTracerApplication.exe" paramscount="0" name="AnyFunc" />
+      </method>
+      <method time="201" package="TestTracerApplication.exe" paramscount="0" name="SomeFunc">
+        <method time="100" package="TestTracerApplication.exe" paramscount="0" name="AnyFunc" />
+      </method>
+    </method>
+  </thread>
+  <thread time="200" id="10">
+    <method time="200" package="TestTracerApplication.exe" paramscount="0" name="SomeFunc">
+      <method time="100" package="TestTracerApplication.exe" paramscount="10" name="AnyFunc" />
+    </method>
+  </thread>
+</root>
